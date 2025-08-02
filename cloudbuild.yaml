@@ -16,3 +16,5 @@ steps:
   args:
   - 'push'
   - 'asia-south1-docker.pkg.dev/oasis-0000/myapps-repository/myapp1:$SHORT_SHA'
+
+logsBucket: 'gs://aura-farmerr'
